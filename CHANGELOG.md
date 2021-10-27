@@ -1,3 +1,10 @@
+## 0.5.0 (2021-10-27)
+
+
+### Features
+
+* [`GenericModel`] Adding pre/post events in `#delete`
+
 ## 0.4.5 (2021-06-24)
 
 
