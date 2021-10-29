@@ -1,3 +1,10 @@
+## 0.6.0 (2021-10-29)
+
+
+### Features
+
+* [`GenericModel`] Refatorar `#delete` para alterar attrs do objeto
+
 ## 0.5.0 (2021-10-27)
 
 
