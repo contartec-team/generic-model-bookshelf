@@ -1,3 +1,10 @@
+## 0.7.1 (2021-11-30)
+
+
+### Code Refactoring
+
+* [`GenericModel`] Refactoring `.getAll`
+
 ## 0.7.0 (2021-11-30)
 
 
