@@ -1,3 +1,10 @@
+## 0.7.0 (2021-11-30)
+
+
+### Features
+
+* [`GenericModel`] Adding `relateds` attr in `.getAll`
+
 ## 0.6.0 (2021-10-29)
 
 
